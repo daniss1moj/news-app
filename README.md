@@ -1,4 +1,10 @@
+# Данные для входа в админку:
+email : test@example.com
+password: password
 
+# Данные для входа в личный кабинет:
+email: test1@example.com
+password: password
 
 ## Запуск проекта локально (Docker Compose) (На windows при использовании docker compose сервер отвечает дольше чем обычно)
 - Скопировать .env.example в .env
